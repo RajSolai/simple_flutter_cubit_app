@@ -2,6 +2,10 @@
 
 ## Screenshots
 
+<p style="text-align:center;">
+    <img src="./screenshot.png">
+</p>
+
 ## Try app now
 
 - [Android](https://github.com/RajSolai/simple_flutter_cubit_app/releases/download/v1.0.0/app-release.apk)

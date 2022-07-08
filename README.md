@@ -14,9 +14,9 @@
 
 ## Plugins
 
-- [dio]()
-- [Equatable]()
-- [flutter_bloc]
+- [dio](https://pub.dev/packages/dio)
+- [Equatable](https://pub.dev/packages/equatable)
+- [flutter_bloc](https://pub.dev/packages/flutter_bloc)
 
 ### A Bloc vs Cubit
 

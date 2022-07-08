@@ -1,16 +1,25 @@
-# flut_bloc_app
+# Flutter application with Bloc patterns (Cubit)
 
-A new Flutter project.
 
-## Getting Started
+## Try app now
 
-This project is a starting point for a Flutter application.
+- [Android]()
 
-A few resources to get you started if this is your first Flutter project:
+## Understand Bloc patterns
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Getting Started with flutter bloc pattern](https://www.mitrais.com/news-updates/getting-started-with-flutter-bloc-pattern/)
+- [Networking in Flutter using Dio](https://blog.logrocket.com/networking-flutter-using-dio/)
+- [Bloc core concepts](https://www.youtube.com/watch?v=toPtm6eyyeE)
+- [Cubit Class](https://pub.dev/documentation/bloc/latest/bloc/Cubit-class.html)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Plugins
+
+- [dio]()
+- [Equatable]()
+- [flutter_bloc]
+
+### A Bloc vs Cubit
+
+![Bloc vs Cubit](https://miro.medium.com/max/1400/0*DVDQeqP1lacfyU5K)
+
+### References

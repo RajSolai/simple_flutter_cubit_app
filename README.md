@@ -1,9 +1,10 @@
 # Flutter application with Bloc patterns (Cubit)
 
+## Screenshots
 
 ## Try app now
 
-- [Android]()
+- [Android](https://github.com/RajSolai/simple_flutter_cubit_app/releases/download/v1.0.0/app-release.apk)
 
 ## Understand Bloc patterns
 
@@ -23,3 +24,5 @@
 ![Bloc vs Cubit](https://miro.medium.com/max/1400/0*DVDQeqP1lacfyU5K)
 
 ### References
+
+https://blog.flutterando.com.br/cubit-a-simple-solution-for-app-state-management-in-flutter-66ab5279ef73
